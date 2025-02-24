@@ -1,6 +1,6 @@
-## Oi sou o Carlos 👋
+## Olá, sou o Carlos 👋
 
-- 🔭 Hoje trabalho com ciência de dados
+- 🔭 Hoje estudo ciência de dados
 - 🌱 Estudando Python, SQL, Pandas
 - 👯 Projetos Reais
 
